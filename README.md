@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I love singing.
+I like to play computer games.
 <!--
 **MusongLee/MusongLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
